@@ -1,4 +1,4 @@
-# Cordova-url-to-app
+# Cordova-url-to-app template
 A Cordova template to instantly create an app from URL.
 
 ### TODOs
